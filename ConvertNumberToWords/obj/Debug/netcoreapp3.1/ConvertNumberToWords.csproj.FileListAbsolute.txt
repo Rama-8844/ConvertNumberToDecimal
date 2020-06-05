@@ -1,0 +1,11 @@
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\netcoreapp3.1\ConvertNumberToWords.csprojAssemblyReference.cache
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\netcoreapp3.1\ConvertNumberToWords.AssemblyInfoInputs.cache
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\netcoreapp3.1\ConvertNumberToWords.AssemblyInfo.cs
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\netcoreapp3.1\ConvertNumberToWords.exe
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\netcoreapp3.1\ConvertNumberToWords.deps.json
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\netcoreapp3.1\ConvertNumberToWords.runtimeconfig.json
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\netcoreapp3.1\ConvertNumberToWords.runtimeconfig.dev.json
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\netcoreapp3.1\ConvertNumberToWords.dll
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\bin\Debug\netcoreapp3.1\ConvertNumberToWords.pdb
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\netcoreapp3.1\ConvertNumberToWords.dll
+D:\18-05-2020\ConvertNumberToWords\ConvertNumberToWords\obj\Debug\netcoreapp3.1\ConvertNumberToWords.pdb
